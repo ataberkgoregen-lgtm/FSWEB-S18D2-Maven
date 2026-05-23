@@ -96,6 +96,7 @@ INSERT INTO public.tur(ad) VALUES('Komedi');
 INSERT INTO public.tur(ad) VALUES('Roman');
 INSERT INTO public.tur(ad) VALUES('Hikaye');
 INSERT INTO public.tur(ad) VALUES('Araştırma');
+INSERT INTO public.tur(ad) VALUES('Biyografi');
 
 INSERT INTO yazar(ad, soyad)
 VALUES('Leyla', 'Çelik');
